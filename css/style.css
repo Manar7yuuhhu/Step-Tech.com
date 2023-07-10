@@ -79,10 +79,10 @@ section {
    font-weight: 700;
 }
 .home .slide1 {
-   background-image: url("../assets/img/bg_banner1.jpg");
+   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQste7X-QB29b1-EHy_RHIv75Cu0ODSkmhxGQ&usqp=CAU");
 }
 .home .slide2 {
-   background-image: url("../assets/img/bg_banner2.jpg");
+   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQosKfOos3ydiqT78LRQvrEWa6J5Rz-rmVUTw&usqp=CAU");
 }
 .home .slide {
    color: #fff;
